@@ -1,1 +1,1 @@
-This repo is for shell basic
+Shell Studies
